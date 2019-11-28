@@ -1,0 +1,29 @@
+{"rdvlist" : [{
+   "id":181808,
+   "foreignId": 123456,
+   "vote_average":7.2,
+   "name1":"DPE and Co",
+   "poster_path":"",
+   "name2":"c'est nous les meilleurs",
+   "overview":"Je vous propose un service de qualité sans égal dans le monde du DPE. Le RDV durera 2h maximum",
+   "contact1":"0662578769",
+   "contact2":"haudrytc@gmail.com",
+   "rdv_date":"2017-12-13",
+   "rdv_time":"17h30"
+
+},
+{
+   "id":181809,
+   "foreignId": 123457,
+   "vote_average":7.8,
+   "name1":"DPE Pro",
+   "poster_path":"",
+   "name2":"DPE cest la vie",
+   "overview":"Un service inégalable, un café et on s'y met. Si vous voulez des prestation d'isolation supplémentaire, n'hésitez pas a nous le demander sur www.google.fr. Ce service vous sera facturer en supplément de votre RDV DPE. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor inreprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+   "contact1":"0662578769",
+   "contact2":"antho@gmail.com",
+   "rdv_date":"2018-12-13",
+   "rdv_time":"16h30"
+}
+]
+}
